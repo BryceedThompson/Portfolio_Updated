@@ -26,7 +26,7 @@ const Footer = () => {
             sx={{ fontSize: 50 }}
             onClick={(event) =>
               (window.location.href =
-                "https://www.linkedin.com/in/ryan-messett/")
+                "https://www.linkedin.com/in/bryce-ed-thompson/")
             }
           />
           <GitHubIcon
@@ -34,7 +34,7 @@ const Footer = () => {
             className="pop-on-hover"
             sx={{ fontSize: 50 }}
             onClick={(event) =>
-              (window.location.href = "https://github.com/rmessett15")
+              (window.location.href = "https://github.com/BryceedThompson")
             }
           />
           <EmailIcon
@@ -42,7 +42,7 @@ const Footer = () => {
             className="pop-on-hover"
             sx={{ fontSize: 50 }}
             onClick={(event) =>
-              (window.location.href = "mailto:rmessett15@gmail.com")
+              (window.location.href = "mailto:bryceedthompson@gmail.com")
             }
           />
         </Grid>
